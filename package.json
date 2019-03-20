@@ -1,0 +1,27 @@
+{
+  "name": "kadeaa-algorithm",
+  "version": "1.0.0",
+  "description": "Kadeaa Backend Developer test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js 100",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riverarcarlosm/kadeaa.git"
+  },
+  "keywords": [
+    "kadeaa",
+    "algorithm"
+  ],
+  "author": "Carlos Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riverarcarlosm/kadeaa/issues"
+  },
+  "homepage": "https://github.com/riverarcarlosm/kadeaa#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
